@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on one coorporation
 - 📫 How to reach me with my network
 - 😄 Pronouns: Kuamba
-- ⚡ Fun fact: developers and craerter
+- ⚡ Fun fact: developer and craerte
 
 <!---
 BerraoKuamba/BerraoKuamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
